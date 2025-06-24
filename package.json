@@ -1,0 +1,13 @@
+{
+  "name": "jamestech-telegram-bot",
+  "version": "1.0.0",
+  "description": "A simple Telegram bot hosted on Render",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "telegraf": "^4.16.0"
+  }
+}
